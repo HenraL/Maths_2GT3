@@ -1,0 +1,29 @@
+f(x)=5,5x-7,5
+f(x)=2x²-x-6
+A(3;f(3)) A(3;9) ou S(0,25;-6,125)
+L'expression de la fonctio affine représentée par la droite (AB) est: f(x)=5,5x-7,5
+S(1/4; -49/8)
+f(0)=5,5*0-7,5=-7,5
+5,5x-7,5=0
+    5,5x=7,5
+       x=7,5/5,5
+       x=15/11~1,36
+
+3°) graphiquement
+
+La droite (AS) coupe l'axe des abscises en un point M l'abscisse proche de 1/4 est l'ordonnée 0. (AS) coupe l'axe des ordonnées en un point P d'ordonnée proche de -7,5. 
+
+3°) par le calcule.
+
+Pour trouver le point de la droite AS d'ordonnée nulle on résout:
+
+f(x)=0
+5,5x-7,5=0
+5,5x=7,5
+x=7,5/5,5=15/11
+donc M(15/11; 0)
+
+Pour déterminer les coordonnées du point de la droite d'abscisse 0.
+On calcule f(0)=5,5*0-7,5
+f(0)=-7,5
+conclusion  f(0;-7,5)

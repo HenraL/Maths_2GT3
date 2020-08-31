@@ -1,0 +1,19 @@
+03/10/2017
+
+Le nombre 1,5 a deux antécédent(s) par f
+Sur [-4;4]
+les antécédents de 1,5 par f sont les nombres -3,75
+
+sachant que le minimum de la fonction h est atteint pour x=2m
+calculer le minimum.
+x=2
+
+h(2)=2²-6*2+3
+     =4-12+3
+     =-8+3
+     =-5m
+
+x²
+x²+4²=(10-x)²
+x²+16=10-2*10*2+x²
+16=100-20x

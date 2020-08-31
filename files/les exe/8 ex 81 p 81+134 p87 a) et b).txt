@@ -1,0 +1,197 @@
+/=/ n'est pas égal à
+
+S= La solution de l'équation est égal à...
+
+( )
+° ° grande acolades
+( )
+
+ex 81 p81
+
+a)
+2x-1
+____=0
+4x+1
+
+l'équation quotient=0 si le numérateur=0
+
+donc 2x-1=0
+
+2x=1
+
+  1
+x=_
+  2
+
+b)
+
+12x-6
+_____=0
+ 8x-3
+l'équation quotient=0 si le numérateur=0
+
+donc 12x-6=0
+
+12x=6
+
+  6
+x=__
+  12
+
+  1
+x=_
+  2
+
+c)
+
+5+5x
+_____=0
+x²+1
+
+l'équation quotient=0 si le numérateur=0
+
+donc 5+5x=0
+
+5x=-5
+
+   5
+x=-_
+   5
+
+x=-1
+
+d)
+
+-3x+9
+_____=0
+7x+6
+
+l'équation quotient=0 si le numérateur=0
+
+donc -3x+9=0
+
+-3x=-9
+
+  -9
+x= _
+  -3
+
+  9
+x=_
+  3
+
+x=3
+
+e)
+
+(x-1)(5+x)
+__________=0
+  2x+9
+
+l'équation quotient=0 si le numérateur=0
+
+donc (x-1)(5+x)=0
+soit x-1=0
+donc x=1
+
+soit 5+x=0
+donc x=-5
+
+f)
+
+(x-6)(-x-7)
+___________=0
+    x²-1
+
+l'équation quotient=0 si le numérateur=0
+
+donc (x-6)(-x-7)=0
+
+soit x-6=0
+donc x=6
+
+soit -x-7=0
+donc   -x=7
+donc    x=-7
+
+ex 134 p87
+
+a)
+
+2x+1
+____=0
+x-3
+
+(ou
+2x+1  8
+____=___
+x-3   1
+
+2x+1 8*(x-3)
+____-_______=0
+x-3  1*(x-3)
+
+2x+1 8x-24
+____-_____
+x-3 x-3
+
+(2x+1)-(8x-24)
+______________
+    x-3
+
+2x+1-8x+24
+__________
+   x-3
+
+-6x+25
+______=0
+ x-3
+
+-6x*25=0 et x-3/=/0
+  ( 25 )
+S=°____°
+  (  6 )
+)
+
+l'équation quotient=0 si le numérateur=0
+
+donc 2x+1=0
+
+2x=-1
+
+   1
+x=-_
+   2
+
+x=0,5
+a est faux
+
+b)
+
+2x+1
+____=8
+x-3
+
+(x-3)*8 =2x+1
+8x-24 = 2x+1
+8x-2x=24+1
+6x=25
+  25
+x=__
+  6
+
+faux.
+
+2)
+
+a) il faudrait avoir -2x+2     pour avoir x=1
+                     ______=0
+                       x-3
+
+				    25
+b) Pour avoir x=5 il faudrait que x=__ 
+				    5                     
+
+                       3x+1
+donc il faudrait avoir ____=8
+                       x-3

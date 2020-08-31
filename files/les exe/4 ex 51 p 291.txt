@@ -1,0 +1,47 @@
+https://www.google.com/intl/fr/earth/
+ex  autre(facteurs)
+on calucule e n/4 et on prend le rang entier immédiatement supérieur au résultat de n/4
+C:\Windows\System32\ras
+ 
+a)
+sérise 1
+effectif=30
+etendue=5,6
+10,3-4,7= 5,6
+
+série 2
+effectif= 30
+etendue=5,83
+10,41-4,58=5,83
+
+b)
+La proportion d'élèves qui ont lancé le poid au dela de 8m à augmenter de 11/30 à 14/30 ce qui fait 3/30 soit 1 élève sur 10.
+
+c)
+moyenne de la première série:
+
+(4,7+5,12+5,1+5,45+5,44+5,72+6,01+6+6,3+6,5+6,7+6,9+6,99+6,57+7,59+7,7+7,8+8,1+8,4+7,99+8,59+8+8,09+8,23+9,54+9,7+9,7+9,9+10,1+10,3)/30=7,441
+
+La médianne de la première série:
+(7,7+7,59)/2=7,645
+
+1er quartile
+6,01
+
+3e quartile
+8,59
+
+moyenne de la deuxième série:
+
+(4,58+6,19+5,1+5,49+5,5+7,1+5,56+5,95+7,32+8,23+6,7+6,28+7,1+7,3+7,38+7,92+7,9+8,37+8,41+8,5+8,7+8,83+9,1+9,3+9,72+9,7+9,7+9,98+10,16+10,41)/30~7,749
+
+1er quartile
+6,28
+
+3e quartile
+9,1
+
+La médianne de la deuxième série:
+(7,92+7,38)/2=7,65
+
+La médiane étaitn a peut près pareil dasn les deux séries. Le premier quartile et le troisième quartile ont progressé donc les lèves moyens sont resté moyen mais les plus faibles et les plus forts ont progressé.

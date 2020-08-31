@@ -1,0 +1,5 @@
+echo on
+echo -->
+echo AB = (6_1; 10_-1)
+echo Xb-Xa=10-6
+echo

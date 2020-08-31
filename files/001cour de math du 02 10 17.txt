@@ -1,0 +1,8 @@
+02/10/2017
+ex 19 p43
+a.vrai
+b.faux elle était inférieur à 61 millions d'habitants
+c.faux elle a augmenter environ de 5 millions d'habitants
+d.vrai 60 Millions d'habitants ont été franchit en 1997.
+
+X1=X2=X3=X4=f(x1)=f(X2)=f(X3)=f(X4)=0

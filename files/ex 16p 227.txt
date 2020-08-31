@@ -1,0 +1,21 @@
+ex 16p 227:
+
+1) Dans le triangle KLN rectangle en K on a:
+ArcCos kln =4/8=1/2=0,5
+donc KLN=60°
+
+dans le triangle LMN rectangle en M on a:
+Arcsin de NLM =2/8=1/4=0,25
+ArcSin de NLM~14,5°
+
+KLM=KLN+NLM=60+14,5=74,5°
+
+2) 60-14,5=45,5°
+                                                    ^
+						   / \
+Sans la figure l'élève peut penser que le triangle NLM n'est pas oopposé au triangle LKN mais est du même coté de l'hypothenuse.
+
+|\  /|
+| \/ |
+| /\ |
+|/__\|
